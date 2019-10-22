@@ -24,16 +24,16 @@ The visualizations are optimized to use Nunito Sans for titles and team scores, 
 
 ## Examples:
 
-### Static version
 Static version without smoothing.
 
 ![Static](output/example.png)
-<br>
+
+
 Static version with smoothing.
 
 ![Static](output/example_smooth.png)
-<br>
-### Animated version
+
+
 Animated version with smoothing.
 
 ![Animated](output/example.gif)
