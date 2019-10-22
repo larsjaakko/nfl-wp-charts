@@ -4,7 +4,7 @@ Notebook to produce static and animated win probability charts from nflscrapR da
 ## Examples:
 
 ### Static version
-![Static](example_static.png)
+![Static](example.png)
 <br>
 <br>
 
