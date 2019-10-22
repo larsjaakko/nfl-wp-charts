@@ -3,4 +3,4 @@ Notebook to produce static and animated win probability charts from nflscrapR da
 
 ## Examples:
 
-![Animated](input.gif)
+!(input.gif)
