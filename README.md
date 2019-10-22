@@ -13,7 +13,7 @@ The notebook is written using Python 3.7 and relies on (at least) the below pack
 - [csaps](https://github.com/espdev/csaps) (to smooth the sometimes overly jumpy WP curves)
 - matplotlib
 - seaborn
-- requests (to fetch and join week numbers to the nflscrapR data)
+- [requests](https://requests.kennethreitz.org/en/master/) (to fetch and join week numbers to the nflscrapR data)
 - [celluloid](https://github.com/jwkvam/celluloid) (easy matplotlib animation)
 - [ffmpeg](https://ffmpeg.org/download.html) (to output animations to video files)
 
