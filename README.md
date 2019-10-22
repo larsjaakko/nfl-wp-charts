@@ -38,3 +38,6 @@ The visualizations are optimized to use Nunito Sans for titles and team scores, 
 
 ![Animated](output/example.gif)
 *Excuse the potato quality of the gif. The code outputs .mp4 files with better definition.*
+
+## Feedback
+Feel free to leave an issue in the repo or reach out to me on [Twitter](https://twitter.com/larsjaakko/).
