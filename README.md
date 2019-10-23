@@ -19,22 +19,24 @@ A Jupyter Notebook to produce static and animated win probability charts from nf
 *Excuse the potato quality of the gif. The code outputs .mp4 files with better definition.*
 
 ## Requirements
-The notebook is written using Python 3.7 and relies on (at least) the below packages. I strongly recommend installing Python via [Anaconda](https://www.anaconda.com/distribution/), which will also include several of the below packages out of the box.
+The notebook is written using Python 3.7 and relies on (at least) the below packages. I strongly recommend installing Python via [Anaconda](https://www.anaconda.com/distribution/), which will also include these packages out-of-the-box:
 - jupyter
 - pandas
 - numpy
 - scipy
-- [csaps](https://github.com/espdev/csaps) (to smooth the sometimes overly jumpy WP curves)
 - matplotlib
 - seaborn
+
+In addition, these packages need to be installed individually:
+- [csaps](https://github.com/espdev/csaps) (to smooth the sometimes overly jumpy WP curves)
 - [requests](https://requests.kennethreitz.org/en/master/) (to fetch and join week numbers to the nflscrapR data)
 - [celluloid](https://github.com/jwkvam/celluloid) (easy matplotlib animation)
 - [ffmpeg](https://ffmpeg.org/download.html) (to output animations to video files)
 
-You also need to feed the code with some nflscrapR data.
+You also need to feed the code with some nflscrapR data, of course.
 
 ## Usage notes
-The notebook is named wp-charts.ipynb. Simply open it using Jupyter, tweak the parameters as you like and execute the code!
+The notebook is named [wp-charts.ipynb](https://github.com/larsjaakko/nfl-wp-charts/blob/master/wp-charts.ipynb). Simply open it using Jupyter, tweak the parameters as you like and execute the code!
 
 Note that an animated chart using the suggested 500 frames will take about 5 minutes to render.
 
