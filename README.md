@@ -41,7 +41,7 @@ The notebook is named [wp-charts.ipynb](https://github.com/larsjaakko/nfl-wp-cha
 Note that an animated chart using the suggested 500 frames will take about 5 minutes to render.
 
 ## Fonts
-The visualizations are optimized to use [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans) for titles and team scores, as well as [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) for labels and ticks. Both fonts have open licences and are included in the `/fonts` folder. If you don't want to use these fonts, please make sure to adjust the font sizes and spacing so it looks decent. If you ignore the recommended fonts and use your system defaults, it'll look shitty. Don't be that guy. Fonts matter.
+The visualizations are optimized to use [Nunito Sans](https://fonts.google.com/specimen/Nunito+Sans) for titles and team scores, as well as [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) for labels and ticks. Both fonts have open licences and are included in the `/fonts` folder. If you don't want to use these fonts, make sure to adjust the font sizes and spacing, as it might look unbalanced.
 
 ## Feedback
 Feel free to leave an issue in the repo or reach out to me on [Twitter](https://twitter.com/larsjaakko/).
